@@ -1,1 +1,109 @@
-# Professional STAR Examples & Interview Material ### Jon Connor — QA / Testing / Documentation / Process Improvement --- ## Planning & Organising — STAR Examples (Excel & Word) ### 1. Organising Fault‑Tracking Using Excel (Actavo) **Situation:** A high number of SKY set‑top boxes were incorrectly marked as faulty, costing the business money. **Task:** Identify the source of the issue and present clear findings to management. **Action:** I created an Excel spreadsheet to track every box tested, including engineer ID, team, manager, and outcome. I used filters and conditional formatting to highlight patterns and summarised the findings in a Word report for management. **Result:** The data revealed specific teams needing training. After targeted coaching, incorrect returns dropped significantly. ### 2. Structuring Test Plans and Documentation (Accounting Technicians Ireland) **Situation:** A new CRM exam module required full testing, but requirements were scattered across multiple documents. **Task:** Organise the testing approach and ensure full coverage. **Action:** I consolidated requirements into a structured Word test plan, created an Excel traceability matrix, and scheduled execution phases. **Result:** Missing requirements were identified early, communication improved, and the module was delivered with fewer defects. ### 3. Managing Regression Automation Priorities (Propylon) **Situation:** Regression testing was falling behind due to a growing backlog. **Task:** Organise and prioritise work to improve coverage. **Action:** I used Excel to categorise test cases by risk, frequency, and business impact. I then planned automation priorities and documented the process in Word for the QA team. **Result:** Regression coverage increased, backlog reduced, and sprint delivery became more predictable. --- ## Communication & Interpersonal Skills — STAR Examples (Excel & Word) ### 1. Improving Clarity Between QA and Product Owners (Propylon) **Situation:** Misunderstandings between QA and product owners caused rework. **Task:** Improve clarity and communication. **Action:** I summarised requirements and acceptance criteria in clear Word documents and used Excel to track requirement changes and test impacts. I held short clarification sessions to align expectations. **Result:** Fewer requirement conflicts, smoother sprint cycles, and stronger relationships with product owners. ### 2. Supporting Team Learning Through Documentation (Pexlify) **Situation:** Team members struggled with the new Java/Selenium framework. **Task:** Help colleagues understand and adopt the framework. **Action:** I created simple Word guides with screenshots, examples, and troubleshooting steps. I also used Excel to track common issues raised during weekly Q&A sessions. **Result:** Team adoption increased, automation became part of the sprint, and regression accuracy improved. ### 3. Communicating Defects Clearly Using Gherkin (Accounting Technicians Ireland) **Situation:** Developers were receiving unclear defect descriptions. **Task:** Improve communication to speed up issue resolution. **Action:** I wrote clear, structured Word documents using Gherkin syntax to describe behaviours and expected outcomes. **Result:** Faster turnaround on fixes and improved developer–tester collaboration. --- ## IT Skills — STAR Examples (Excel & Word) ### 1. Using Excel to Analyse Test Failures (SAP Ariba) **Situation:** Overnight automation runs were failing inconsistently. **Task:** Identify patterns and stabilise the environment. **Action:** I exported logs into Excel, used pivot tables to identify recurring failure points, and documented solutions in Word for the team. **Result:** Overnight pass rates improved and coverage increased. ### 2. Creating Documentation for Automation Framework (Pexlify) **Situation:** The team needed clear guidance on using the new automation framework. **Task:** Produce documentation that was easy to follow. **Action:** I created a structured Word manual with examples, screenshots, and step‑by‑step instructions. I also used Excel to track which test cases were automated and which were pending. **Result:** The framework was adopted widely, and regression testing became more reliable. ### 3. Learning HTML/CSS/Git to Improve Workflow (Interactive Services) **Situation:** Developers were overloaded with minor text and graphic fixes. **Task:** Reduce bottlenecks and improve turnaround. **Action:** I learned HTML, CSS, and Git independently, documented fixes in Word, and tracked changes in Excel for transparency. **Result:** Faster delivery for clients and more time freed for developers. --- ## Drive & Initiative — STAR Examples (Excel & Word) ### 1. Creating a Data‑Driven Solution Without Being Asked (Actavo) **Situation:** The business was losing money due to incorrect fault diagnoses. **Task:** Identify the cause and propose a solution. **Action:** I independently created an Excel tracking system, analysed the data, and wrote a Word summary with recommendations. **Result:** Training was introduced, and error rates dropped significantly. ### 2. Proactively Resolving Requirement Conflicts (Central Bank of Ireland) **Situation:** Conflicts between acceptance criteria and documentation slowed testing. **Task:** Improve clarity and reduce rework. **Action:** I compared requirements in Excel, highlighted discrepancies, and documented findings in Word for the BA and dev teams. **Result:** Testing efficiency increased and fewer late‑stage defects occurred. ### 3. Learning Tools to Support the Team (Interactive Services) **Situation:** Minor issues were slowing production. **Task:** Improve workflow without waiting for formal training. **Action:** I taught myself HTML, CSS, and Git, documented fixes in Word, and used Excel to track recurring issues. **Result:** Reduced production bugs and improved build quality. --- ## Introduction (Interview‑Ready) My name is **Jon Connor**, an experienced QA professional with nine years across manual and automated testing, working in both public and private sector environments. I’ve built strong skills in planning, documentation, Excel‑based analysis, and process improvement. I’m organised, detail‑focused, and I enjoy supporting teams by bringing structure, clarity, and efficiency to day‑to‑day operations. I’m now looking to bring those strengths into a role where I can contribute to a stable, quality‑driven environment like the CCE Head Office. --- ## Why I Want This Role (Tailored to CCE) I’m interested in this role because it aligns closely with the strengths I’ve developed throughout my career — organisation, documentation, Excel‑based tracking, and supporting teams in a structured environment. I’ve always enjoyed roles where I can bring order to complex information, manage processes, and help a department run smoothly. I also have hands‑on experience with SAP, Excel, and Word, which are central to this role. I’ve consistently worked in environments where accuracy, compliance, and attention to detail are essential — which fits well with the CCE Quality Department. What appeals to me most is the opportunity to support a team that plays a key role in safety, quality, and operational efficiency. I enjoy being the person who keeps things moving, solves problems proactively, and supports colleagues so they can focus on their core responsibilities. This role feels like a natural next step where I can add real value.
+# Professional STAR Examples & Interview Material  
+### Jon Connor — QA / Testing / Documentation / Process Improvement
+
+## Introduction (Interview‑Ready)
+
+My name is **Jon Connor**, an experienced QA professional with nine years across manual and automated testing, working in both public and private sector environments. I’ve built strong skills in planning, documentation, Excel‑based analysis, and process improvement. I’m organised, detail‑focused, and I enjoy supporting teams by bringing structure, clarity, and efficiency to day‑to‑day operations. I’m now looking to bring those strengths into a role where I can contribute to a stable, quality‑driven environment like the CCE Head Office.
+
+---
+
+## Why I Want This Role (Tailored to CCE)
+
+I’m interested in this role because it aligns closely with the strengths I’ve developed throughout my career — organisation, documentation, Excel‑based tracking, and supporting teams in a structured environment. I’ve always enjoyed roles where I can bring order to complex information, manage processes, and help a department run smoothly.
+
+I also have hands‑on experience with SAP, Excel, and Word, which are central to this role. I’ve consistently worked in environments where accuracy, compliance, and attention to detail are essential — which fits well with the CCE Quality Department.
+
+What appeals to me most is the opportunity to support a team that plays a key role in safety, quality, and operational efficiency. I enjoy being the person who keeps things moving, solves problems proactively, and supports colleagues so they can focus on their core responsibilities. This role feels like a natural next step where I can add real value.
+
+
+---
+
+## Planning & Organising — STAR Examples (Excel & Word)
+
+### 1. Organising Fault‑Tracking Using Excel (Actavo)
+**Situation:** A high number of SKY set‑top boxes were incorrectly marked as faulty, costing the business money.  
+**Task:** Identify the source of the issue and present clear findings to management.  
+**Action:** I created an Excel spreadsheet to track every box tested, including engineer ID, team, manager, and outcome. I used filters and conditional formatting to highlight patterns and summarised the findings in a Word report for management.  
+**Result:** The data revealed specific teams needing training. After targeted coaching, incorrect returns dropped significantly.
+
+### 2. Structuring Test Plans and Documentation (Accounting Technicians Ireland)
+**Situation:** A new CRM exam module required full testing, but requirements were scattered across multiple documents.  
+**Task:** Organise the testing approach and ensure full coverage.  
+**Action:** I consolidated requirements into a structured Word test plan, created an Excel traceability matrix, and scheduled execution phases.  
+**Result:** Missing requirements were identified early, communication improved, and the module was delivered with fewer defects.
+
+### 3. Managing Regression Automation Priorities (Propylon)
+**Situation:** Regression testing was falling behind due to a growing backlog.  
+**Task:** Organise and prioritise work to improve coverage.  
+**Action:** I used Excel to categorise test cases by risk, frequency, and business impact. I then planned automation priorities and documented the process in Word for the QA team.  
+**Result:** Regression coverage increased, backlog reduced, and sprint delivery became more predictable.
+
+---
+
+## Communication & Interpersonal Skills — STAR Examples (Excel & Word)
+
+### 1. Improving Clarity Between QA and Product Owners (Propylon)
+**Situation:** Misunderstandings between QA and product owners caused rework.  
+**Task:** Improve clarity and communication.  
+**Action:** I summarised requirements and acceptance criteria in clear Word documents and used Excel to track requirement changes and test impacts. I held short clarification sessions to align expectations.  
+**Result:** Fewer requirement conflicts, smoother sprint cycles, and stronger relationships with product owners.
+
+### 2. Supporting Team Learning Through Documentation (Pexlify)
+**Situation:** Team members struggled with the new Java/Selenium framework.  
+**Task:** Help colleagues understand and adopt the framework.  
+**Action:** I created simple Word guides with screenshots, examples, and troubleshooting steps. I also used Excel to track common issues raised during weekly Q&A sessions.  
+**Result:** Team adoption increased, automation became part of the sprint, and regression accuracy improved.
+
+### 3. Communicating Defects Clearly Using Gherkin (Accounting Technicians Ireland)
+**Situation:** Developers were receiving unclear defect descriptions.  
+**Task:** Improve communication to speed up issue resolution.  
+**Action:** I wrote clear, structured Word documents using Gherkin syntax to describe behaviours and expected outcomes.  
+**Result:** Faster turnaround on fixes and improved developer–tester collaboration.
+
+---
+
+## IT Skills — STAR Examples (Excel & Word)
+
+### 1. Using Excel to Analyse Test Failures (SAP Ariba)
+**Situation:** Overnight automation runs were failing inconsistently.  
+**Task:** Identify patterns and stabilise the environment.  
+**Action:** I exported logs into Excel, used pivot tables to identify recurring failure points, and documented solutions in Word for the team.  
+**Result:** Overnight pass rates improved and coverage increased.
+
+### 2. Creating Documentation for Automation Framework (Pexlify)
+**Situation:** The team needed clear guidance on using the new automation framework.  
+**Task:** Produce documentation that was easy to follow.  
+**Action:** I created a structured Word manual with examples, screenshots, and step‑by‑step instructions. I also used Excel to track which test cases were automated and which were pending.  
+**Result:** The framework was adopted widely, and regression testing became more reliable.
+
+### 3. Learning HTML/CSS/Git to Improve Workflow (Interactive Services)
+**Situation:** Developers were overloaded with minor text and graphic fixes.  
+**Task:** Reduce bottlenecks and improve turnaround.  
+**Action:** I learned HTML, CSS, and Git independently, documented fixes in Word, and tracked changes in Excel for transparency.  
+**Result:** Faster delivery for clients and more time freed for developers.
+
+---
+
+## Drive & Initiative — STAR Examples (Excel & Word)
+
+### 1. Creating a Data‑Driven Solution Without Being Asked (Actavo)
+**Situation:** The business was losing money due to incorrect fault diagnoses.  
+**Task:** Identify the cause and propose a solution.  
+**Action:** I independently created an Excel tracking system, analysed the data, and wrote a Word summary with recommendations.  
+**Result:** Training was introduced, and error rates dropped significantly.
+
+### 2. Proactively Resolving Requirement Conflicts (Central Bank of Ireland)
+**Situation:** Conflicts between acceptance criteria and documentation slowed testing.  
+**Task:** Improve clarity and reduce rework.  
+**Action:** I compared requirements in Excel, highlighted discrepancies, and documented findings in Word for the BA and dev teams.  
+**Result:** Testing efficiency increased and fewer late‑stage defects occurred.
+
+### 3. Learning Tools to Support the Team (Interactive Services)
+**Situation:** Minor issues were slowing production.  
+**Task:** Improve workflow without waiting for formal training.  
+**Action:** I taught myself HTML, CSS, and Git, documented fixes in Word, and used Excel to track recurring issues.  
+**Result:** Reduced production bugs and improved build quality.
+
+---
+
+
