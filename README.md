@@ -1,4 +1,4 @@
-# irinterview
+# Irish Rail Interview Prep
 
 📌 Planning & Organising — STAR Examples (Excel & Word)
 1. Organising Fault‑Tracking Using Excel (Actavo)
